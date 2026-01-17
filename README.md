@@ -1,4 +1,4 @@
-# Intelligent and Adaptive Control Systems Project: Non-Linear Systems Stabilization & Backstepping
+# Intelligent and Adaptive Control Systems Project: Non-Linear Systems Stabilization & Backstepping Analysis
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-Simulation-blue.svg)](https://www.mathworks.com/products/matlab.html)
 [![Control](https://img.shields.io/badge/Control-Adaptive_%26_Non--Linear-red.svg)]()
